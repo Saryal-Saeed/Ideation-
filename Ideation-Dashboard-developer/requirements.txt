@@ -1,0 +1,18 @@
+# Web scraping and HTTP
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data processing
+pandas==2.1.4
+
+# Google API and authentication
+gspread==5.12.4
+oauth2client==4.1.3
+
+# AI and ML
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+
+# Utilities
+urllib3==2.0.7 

@@ -1,0 +1,103 @@
+2025-04-16 17:26:35,187 - INFO - Scraping articles from 2025-03-17 17:26:35.187728 to 2025-04-16 17:26:35.187728
+2025-04-16 17:26:35,187 - INFO - Starting to scrape AI articles...
+2025-04-16 17:26:35,187 - INFO - Scraping AI - Page 1
+2025-04-16 17:26:36,327 - INFO - Fetching article: https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/
+2025-04-16 17:26:38,680 - INFO - Fetching article: https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/
+2025-04-16 17:26:41,122 - INFO - Fetching article: https://techcrunch.com/2025/04/15/grok-gains-a-canvas-like-tool-for-creating-docs-and-apps/
+2025-04-16 17:26:43,853 - INFO - Fetching article: https://techcrunch.com/2025/04/15/nvidia-h20-chip-exports-hit-with-license-requirement-by-us-government/
+2025-04-16 17:26:46,301 - INFO - Fetching article: https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/
+2025-04-16 17:26:48,752 - INFO - Fetching article: https://techcrunch.com/2025/04/15/openai-says-it-may-adjust-its-safety-requirements-if-a-rival-lab-releases-high-risk-ai/
+2025-04-16 17:26:51,192 - INFO - Fetching article: https://techcrunch.com/2025/04/15/figma-sent-a-cease-and-desist-letter-to-lovable-over-the-term-dev-mode/
+2025-04-16 17:26:53,731 - INFO - Fetching article: https://techcrunch.com/2025/04/15/openai-hires-team-behind-gv-backed-ai-eval-platform-context-ai/
+2025-04-16 17:26:56,439 - INFO - Fetching article: https://techcrunch.com/2025/04/15/anthropic-forms-a-new-team-to-grow-its-aws-business/
+2025-04-16 17:26:58,739 - INFO - Fetching article: https://techcrunch.com/2025/04/15/anthropics-claude-now-read-your-gmail/
+2025-04-16 17:27:01,126 - INFO - Fetching article: https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/
+2025-04-16 17:27:03,431 - INFO - Fetching article: https://techcrunch.com/2025/04/15/witness-a-dynamic-dialogue-between-two-visionary-ceos/
+2025-04-16 17:27:06,051 - INFO - Fetching article: https://techcrunch.com/2025/04/15/openai-is-reportedly-developing-its-own-x-like-social-media-platform/
+2025-04-16 17:27:08,800 - INFO - Fetching article: https://techcrunch.com/2025/04/15/openai-ships-gpt-4-1-without-a-safety-report/
+2025-04-16 17:27:11,577 - INFO - Fetching article: https://techcrunch.com/2025/04/15/former-tesla-supply-chain-leaders-create-atomic-an-ai-inventory-solution/
+2025-04-16 17:27:14,261 - INFO - Fetching article: https://techcrunch.com/2025/04/15/host-your-very-own-side-event-during-techcrunch-sessions-ai/
+2025-04-16 17:27:16,549 - INFO - Fetching article: https://techcrunch.com/2025/04/15/notion-releases-its-ai-driven-email-inbox/
+2025-04-16 17:27:18,854 - INFO - Fetching article: https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/
+2025-04-16 17:27:21,172 - INFO - Fetching article: https://techcrunch.com/2025/04/14/rlwrld-raises-14-4m-to-build-foundation-model-for-robotics/
+2025-04-16 17:27:23,622 - INFO - Fetching article: https://techcrunch.com/2025/04/14/debates-over-ai-benchmarking-have-reached-pokemon/
+2025-04-16 17:27:26,118 - INFO - Fetching article: https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/
+2025-04-16 17:27:28,903 - INFO - Fetching article: https://techcrunch.com/2025/04/14/openai-plans-to-wind-down-gpt-4-5-its-largest-ever-ai-model-in-its-api/
+2025-04-16 17:27:31,406 - INFO - Fetching article: https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/
+2025-04-16 17:27:33,737 - INFO - Fetching article: https://techcrunch.com/2025/04/14/google-classroom-gives-teachers-an-ai-feature-for-quiz-questions/
+2025-04-16 17:27:36,455 - INFO - Fetching article: https://techcrunch.com/2025/04/14/meta-to-start-training-its-ai-models-on-public-content-in-the-eu/
+2025-04-16 17:27:39,207 - INFO - Fetching article: https://techcrunch.com/2025/04/14/hugging-face-buys-a-humanoid-robotics-startup/
+2025-04-16 17:27:41,533 - INFO - Fetching article: https://techcrunch.com/2025/04/14/nvidia-says-it-plans-to-manufacture-some-ai-chips-in-the-u-s/
+2025-04-16 17:27:44,083 - INFO - Fetching article: https://techcrunch.com/2025/04/13/access-to-future-ai-models-in-openais-api-may-require-a-verified-id/
+2025-04-16 17:27:46,791 - INFO - Fetching article: https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/
+2025-04-16 17:27:49,205 - INFO - Fetching article: https://techcrunch.com/2025/04/12/the-xai-x-merger-is-a-good-deal-if-youre-betting-on-musks-empire/
+2025-04-16 17:27:52,126 - INFO - Extracted 30 articles from AI - Page 1
+2025-04-16 17:27:52,131 - INFO - Saved intermediate results to data\intermediate_AI_20250416_172752.json
+2025-04-16 17:27:52,131 - INFO - Scraping AI - Page 2
+2025-04-16 17:27:53,804 - INFO - Fetching article: https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/
+2025-04-16 17:27:56,101 - INFO - Fetching article: https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/
+2025-04-16 17:27:58,617 - INFO - Fetching article: https://techcrunch.com/2025/04/11/law-professors-side-with-authors-battling-meta-in-ai-copyright-case/
+2025-04-16 17:28:00,934 - INFO - Fetching article: https://techcrunch.com/2025/04/11/ex-openai-staff-file-amicus-brief-opposing-the-companys-for-profit-transition/
+2025-04-16 17:28:03,411 - INFO - Fetching article: https://techcrunch.com/2025/04/11/chatgpt-became-the-most-downloaded-app-globally-in-march/
+2025-04-16 17:28:05,996 - INFO - Fetching article: https://techcrunch.com/2025/04/11/irelands-data-regulator-investigates-xs-use-of-european-user-data-to-train-grok/
+2025-04-16 17:28:08,393 - INFO - Fetching article: https://techcrunch.com/podcast/metas-llama-drama-and-how-trumps-tariffs-could-hit-moonshot-projects/
+2025-04-16 17:28:11,173 - INFO - Fetching article: https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/
+2025-04-16 17:28:13,610 - INFO - Fetching article: https://techcrunch.com/2025/04/11/chatgpt-everything-to-know-about-the-ai-chatbot/
+2025-04-16 17:28:16,066 - INFO - Fetching article: https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/
+2025-04-16 17:28:18,398 - INFO - Fetching article: https://techcrunch.com/2025/04/10/how-chef-robotics-found-success-by-turning-away-its-original-customers/
+2025-04-16 17:28:20,855 - INFO - Fetching article: https://techcrunch.com/2025/04/10/deepmind-ceo-demis-hassabis-says-google-will-eventually-combine-its-gemini-and-veo-ai-models/
+2025-04-16 17:28:23,311 - INFO - Fetching article: https://techcrunch.com/2025/04/10/mira-muratis-ai-startup-is-reportedly-aiming-for-a-massive-2b-seed-round/
+2025-04-16 17:28:25,763 - INFO - Fetching article: https://techcrunch.com/2025/04/10/ai-models-still-struggle-to-debug-software-microsoft-study-shows/
+2025-04-16 17:28:28,587 - INFO - Fetching article: https://techcrunch.com/2025/04/10/the-us-secretary-of-education-referred-to-ai-as-a1-like-the-steak-sauce/
+2025-04-16 17:28:31,433 - INFO - Fetching article: https://techcrunch.com/2025/04/10/canva-is-adding-an-ai-assistant-coding-and-sheets-to-its-platform/
+2025-04-16 17:28:33,877 - INFO - Fetching article: https://techcrunch.com/2025/04/10/livekits-tools-help-power-real-time-communications/
+2025-04-16 17:28:36,354 - INFO - Fetching article: https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/
+2025-04-16 17:28:38,819 - INFO - Fetching article: https://techcrunch.com/2025/04/10/youtube-rolls-out-a-free-ai-music-making-tool-for-creators/
+2025-04-16 17:28:41,719 - INFO - Fetching article: https://techcrunch.com/2025/04/10/amazon-ceo-andy-jassy-urges-companies-to-invest-heavily-in-ai/
+2025-04-16 17:28:44,444 - INFO - Fetching article: https://techcrunch.com/2025/04/10/google-thinks-ai-can-untangle-the-electrical-grids-bureaucracy/
+2025-04-16 17:28:47,149 - INFO - Fetching article: https://techcrunch.com/2025/04/10/incident-io-raises-62m-at-a-400m-valuation-to-help-it-teams-move-fast-when-things-break/
+2025-04-16 17:28:49,651 - INFO - Fetching article: https://techcrunch.com/2025/04/10/the-rise-of-ai-reasoning-models-is-making-benchmarking-more-expensive/
+2025-04-16 17:28:52,108 - INFO - Fetching article: https://techcrunch.com/2025/04/10/ai-insurtech-ominimo-bags-its-first-investment-at-a-220m-valuation/
+2025-04-16 17:28:54,727 - INFO - Fetching article: https://techcrunch.com/2025/04/09/elon-musks-ai-company-xai-launches-an-api-for-grok-3/
+2025-04-16 17:28:57,437 - INFO - Fetching article: https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/
+2025-04-16 17:28:59,937 - INFO - Fetching article: https://techcrunch.com/2025/04/09/openai-attorneys-call-for-musk-to-be-enjoined-from-further-unlawful-and-unfair-action/
+2025-04-16 17:29:02,397 - INFO - Fetching article: https://techcrunch.com/2025/04/09/nvidias-h20-ai-chips-may-be-spared-from-export-controls-for-now/
+2025-04-16 17:29:04,914 - INFO - Fetching article: https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/
+2025-04-16 17:29:07,794 - INFO - Fetching article: https://techcrunch.com/2025/04/09/openai-launches-program-to-design-new-domain-specific-ai-benchmarks/
+2025-04-16 17:29:10,211 - INFO - Extracted 30 articles from AI - Page 2
+2025-04-16 17:29:10,211 - INFO - Saved intermediate results to data\intermediate_AI_20250416_172910.json
+2025-04-16 17:29:10,211 - INFO - Scraping AI - Page 3
+2025-04-16 17:29:10,825 - INFO - Fetching article: https://techcrunch.com/2025/04/09/youtube-expands-its-likeness-detection-technology-which-detects-ai-fakes-to-a-handful-of-top-creators/
+2025-04-16 17:29:13,170 - INFO - Fetching article: https://techcrunch.com/2025/04/09/us-may-fine-tsmc-1b-over-chip-allegedly-used-in-huawei-ai-processor/
+2025-04-16 17:29:16,147 - INFO - Fetching article: https://techcrunch.com/2025/04/09/artisan-the-stop-hiring-humans-ai-agent-startup-raises-25m-and-is-still-hiring-humans/
+2025-04-16 17:29:18,893 - INFO - Fetching article: https://techcrunch.com/2025/04/09/wordpress-com-launches-a-free-ai-powered-website-builder/
+2025-04-16 17:29:21,217 - INFO - Fetching article: https://techcrunch.com/2025/04/09/the-complete-agenda-for-techcrunch-sessions-ai-unveiled/
+2025-04-16 17:29:23,637 - INFO - Fetching article: https://techcrunch.com/2025/04/09/tessell-snags-60m-to-drive-data-management-at-scale/
+2025-04-16 17:29:26,081 - INFO - Fetching article: https://techcrunch.com/2025/04/09/microsoft-backs-solve-intelligence-in-12m-series-a-funding/
+2025-04-16 17:29:28,886 - INFO - Fetching article: https://techcrunch.com/2025/04/09/reddits-conversational-ai-search-tool-leverages-google-gemini/
+2025-04-16 17:29:31,325 - INFO - Fetching article: https://techcrunch.com/2025/04/09/samsung-adds-google-gemini-ai-assistant-to-its-home-robot-ballie/
+2025-04-16 17:29:33,773 - INFO - Fetching article: https://techcrunch.com/2025/04/09/gemini-code-assist-googles-ai-coding-assistant-gets-agentic-upgrades/
+2025-04-16 17:29:36,119 - INFO - Fetching article: https://techcrunch.com/2025/04/09/google-brings-a-music-generating-ai-model-to-its-enterprise-cloud/
+2025-04-16 17:29:38,638 - INFO - Fetching article: https://techcrunch.com/2025/04/09/google-workspace-gets-automation-flows-podcast-style-summaries/
+2025-04-16 17:29:41,319 - INFO - Fetching article: https://techcrunch.com/2025/04/09/googles-newest-gemini-ai-model-focuses-on-efficiency/
+2025-04-16 17:29:43,624 - INFO - Fetching article: https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/
+2025-04-16 17:29:46,010 - INFO - Fetching article: https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/
+2025-04-16 17:29:48,445 - INFO - Fetching article: https://techcrunch.com/2025/04/08/a-nonprofit-is-using-ai-agents-to-raise-money-for-charity/
+2025-04-16 17:29:51,003 - INFO - Fetching article: https://techcrunch.com/2025/04/08/trump-to-endorse-coal-for-data-center-power-in-the-face-of-grim-market-realities/
+2025-04-16 17:29:53,428 - INFO - Fetching article: https://techcrunch.com/2025/04/08/volunteer-your-time-for-a-free-ticket-to-techcrunch-sessions-ai/
+2025-04-16 17:29:55,843 - INFO - Fetching article: https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/
+2025-04-16 17:29:58,275 - INFO - Fetching article: https://techcrunch.com/2025/04/08/meet-the-new-audience-choice-winners-to-lead-breakouts-at-techcrunch-sessions-ai/
+2025-04-16 17:30:00,776 - INFO - Fetching article: https://techcrunch.com/2025/04/08/mira-muratis-ai-startup-gains-prominent-ex-openai-advisers/
+2025-04-16 17:30:03,542 - INFO - Fetching article: https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/
+2025-04-16 17:30:06,202 - INFO - Fetching article: https://techcrunch.com/2025/04/08/snapchat-rolls-out-sponsored-ai-lenses-for-brands/
+2025-04-16 17:30:08,490 - INFO - Fetching article: https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/
+2025-04-16 17:30:11,125 - INFO - Fetching article: https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/
+2025-04-16 17:30:13,748 - INFO - Fetching article: https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/
+2025-04-16 17:30:16,076 - INFO - Fetching article: https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/
+2025-04-16 17:30:18,517 - INFO - Fetching article: https://techcrunch.com/2025/04/07/googles-ai-mode-now-lets-users-ask-complex-questions-about-images/
+2025-04-16 17:30:21,362 - INFO - Fetching article: https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/
+2025-04-16 17:30:24,011 - INFO - Fetching article: https://techcrunch.com/2025/04/07/ai-video-startup-moonvalley-raised-a-fresh-43m-sec-filing-shows/
+2025-04-16 17:30:26,317 - INFO - Extracted 30 articles from AI - Page 3
+2025-04-16 17:30:26,317 - INFO - Saved intermediate results to data\intermediate_AI_20250416_173026.json
+2025-04-16 17:30:26,317 - INFO - Scraping AI - Page 4
+2025-04-16 17:30:26,731 - INFO - Fetching article: https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/
